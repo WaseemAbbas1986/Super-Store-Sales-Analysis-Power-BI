@@ -40,6 +40,3 @@ EDA involved exploring the sales data to answer key questions such as :
 - which cause increase of profit as well
 - Should focusing on "office home" segment to increase sales bacause this segment contribute 19% of total sales
 - Encourge customers to pay via card for fast operation
-Sales By subcatagory Bar Chart
-Sales by shipmode bar chart
-Sales by Region Shows in Map
