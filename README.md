@@ -37,23 +37,11 @@ EDA involved exploring the sales data to answer key questions such as :
 
 ![Sales report](https://github.com/WaseemAbbas1986/Super-Store-Sales-Analysis-Power-BI/assets/168902203/4b9b3a0c-d57a-4756-a2f2-36f1434093b0)
 
-
-Super Store Sales report
-KPIs
-Total Sales Amount
-Total quantity Sold
-Profit
-Avg Delivery Days
-
-### Slicers
-Regions
-
-
-Sales By Payment Mode in Doughnut Chat
-Monthly Profit by YoY Line Chart
-Sales by catagory in Bar Chart
-Sales By Segment in doughnut Chart
-Monthly sales By YoY Line chart
+### Findings/Results
+- Total sales has increase from last year
+- which cause increase of profit as well
+- Should focusing on "office home" segment to increase sales bacause this segment contribute 19% of total sales
+- Encourge customers to pay via card for fast operation
 Sales By subcatagory Bar Chart
 Sales by shipmode bar chart
 Sales by Region Shows in Map
