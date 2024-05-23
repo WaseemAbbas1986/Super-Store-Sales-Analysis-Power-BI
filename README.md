@@ -1,7 +1,5 @@
 # Super Store Sales Analysis
 
-## Table of Content
-- [Slicers](#Slicers)
 
 ### Project Overview
 This data analysis project aims to analyse super store sales and indenfe the top and low sales products and as well as sales trends. YoY profit and Yoy sales analysis. by analysing varius
